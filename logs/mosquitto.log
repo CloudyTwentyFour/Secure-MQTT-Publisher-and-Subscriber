@@ -1,0 +1,15 @@
+1660815130: mosquitto version 1.5.5 starting
+1660815130: Config loaded from mosquitto.conf.
+1660815130: Opening ipv4 listen socket on port 8883.
+1660815130: Opening ipv6 listen socket on port 8883.
+1660815145: mosquitto version 1.5.5 terminating
+1660815311: mosquitto version 1.5.5 starting
+1660815311: Config loaded from mosquitto.conf.
+1660815311: Opening ipv4 listen socket on port 8883.
+1660815311: Opening ipv6 listen socket on port 8883.
+1660815314: mosquitto version 1.5.5 terminating
+1660815332: mosquitto version 1.5.5 starting
+1660815332: Config loaded from ./mosquitto.conf.
+1660815332: Opening ipv4 listen socket on port 8883.
+1660815332: Opening ipv6 listen socket on port 8883.
+1660815349: mosquitto version 1.5.5 terminating
